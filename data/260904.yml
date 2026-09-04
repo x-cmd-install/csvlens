@@ -1,29 +1,31 @@
 about:
-  description: Command line csv viewer
+  description:
+  |
+    Command line csv viewer
   license: MIT
   homepage: 
   head: 6acf060
   archived: false
   latestVersion: v0.15.1
-  collectedAt: 2026-09-04T02:35:23Z
+  collectedAt: 2026-09-04T19:18:22Z
 timeline:
   created: 2021-08-14
   lastCommit: 2026-07-04
   lastRelease: 2026-01-08
 popularity:
-  star: 3953
+  star: 3954
   watcher: 11
   fork: 71
   release: 18
   contributor: 22
-  pullRequest: 17
+  pullRequest: 79
   issue: 129
 language:
   Rust: 382556
   Shell: 4668
   Just: 1216
   Bluespec: 21
-totalLine: 388461
+totalBytes: 388461
 recent:
   last30d:
     since: 2026-08-05
@@ -32,6 +34,14 @@ recent:
     openPR: 2
     closedIssue: 0
     openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 0
+    openPR: 2
+    closedIssue: 0
+    openIssue: 2
     commit: 0
   last90d:
     since: 2026-06-06
@@ -57,3 +67,21 @@ recent:
     closedIssue: 15
     openIssue: 14
     commit: 61
+  last720d:
+    since: 2024-09-14
+    release: 7
+    mergedPR: 36
+    openPR: 8
+    closedIssue: 30
+    openIssue: 28
+    commit: 136
+total:
+  release: 18
+  mergedPR: 62
+  openPR: 9
+  closedIssue: 79
+  openIssue: 50
+  commit: 467
+---
+---
+
