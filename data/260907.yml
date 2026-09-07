@@ -5,13 +5,13 @@ about:
   head: 6acf060
   archived: false
   latestVersion: "v0.15.1"
-  collectedAt: 2026-09-07T05:59:56Z
+  collectedAt: 2026-09-07T18:35:50Z
 timeline:
   created: 2021-08-14
   lastCommit: 2026-07-04
   lastRelease: 2026-01-08
 popularity:
-  star: 3955
+  star: 3956
   watcher: 11
   fork: 71
   release: 18
@@ -82,7 +82,7 @@ total:
   commit: 467
 ---
 path: /home/runner/.x-repo/github.com/YS-L/csvlens
-collectedAt: 2026-09-07T05:59:58Z
+collectedAt: 2026-09-07T18:35:52Z
 loc:
   Rust:
     code: 8394
@@ -118,7 +118,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:59:59+00:00
+  collectedAt: 2026-09-07T18:35:52+00:00
   platform:
     darwin/arm64:
       name:  csvlens-aarch64-apple-darwin.tar.xz
