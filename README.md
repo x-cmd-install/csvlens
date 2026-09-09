@@ -7,7 +7,7 @@ Command line csv viewer
 - **Latest release**: `v0.15.1` (2026-01-08)
 - **Last commit**: 2026-07-04
 - **License**: MIT
-- **Stars**: 3958 · **Forks**: 71 · **Open issues**: 129 · **Contributors**: 22
+- **Stars**: 3959 · **Forks**: 71 · **Open issues**: 129 · **Contributors**: 22
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/csvlens> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:55:45Z._
+_Last regenerated: 2026-09-09T20:30:52Z._
