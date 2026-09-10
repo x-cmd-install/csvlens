@@ -4,41 +4,13 @@
 
 Command line csv viewer
 
-![csvlens](https://repo.x-cmd.io/csvlens.svg)
+![csvlens](https://repo.x-cmd.io/csvlens.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install csvlens
 ```
-
-## 源代码
-
-- **上游仓库**: <https://github.com/YS-L/csvlens>
-- **许可证**: MIT
-
-## 发布
-
-- **最新版本**: `v0.15.1` (2026-01-08)
-- **最近提交**: 2026-07-04
-- **Release 含资产**: 18 个
-- **发布时间**: 2026-01-08T17:49:26Z
-
-## 流行度
-
-- **Star**: 3,959 · **Fork**: 71 · **开放 issue**: 129 · **贡献者**: 22
-
-## 累计统计
-
-- **发布数**: 18 · **已合并 PR**: 62 · **开放 PR**: 9 · **已关闭 issue**: 79 · **开放 issue**: 50 · **提交数**: 467
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 2 | 0 | 2 | 1 |
-| 360d | 2025-09-15 | 3 | 16 | 6 | 15 | 13 | 61 |
 
 ## 代码规模
 
@@ -52,6 +24,69 @@ x install csvlens
 | Markdown | 0 | 274 | 124 | 2 |
 | Text | 0 | 131 | 37 | 2 |
 
+## 源代码
+
+- **上游仓库**: <https://github.com/YS-L/csvlens>
+- **许可证**: MIT
+
+## 发布
+
+- **最新版本**: `v0.15.1` (2026-01-08)
+- **最近提交**: 2026-07-04
+- **Release 含资产**: 18 个
+
+## 流行度
+
+- **Star**: 3,960 · **Fork**: 71 · **开放 issue**: 129 · **贡献者**: 22
+
+## 累计统计
+
+- **发布数**: 18 · **已合并 PR**: 62 · **开放 PR**: 9 · **已关闭 issue**: 79 · **开放 issue**: 50 · **提交数**: 467
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 2 | 0 | 2 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 2 | 0 | 2 | 1 |
+| last180d | 2026-03-14 | 0 | 1 | 3 | 2 | 2 | 4 |
+| 360d | 2025-09-15 | 3 | 16 | 6 | 15 | 13 | 61 |
+| last720d | 2024-09-20 | 6 | 36 | 8 | 30 | 27 | 134 |
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [csvlens-aarch64-apple-darwin.tar.xz](https://github.com/YS-L/csvlens/releases/download/v0.15.1/csvlens-aarch64-apple-darwin.tar.xz) | 1.5 MiB | `native/darwin/arm64` |
+| [csvlens-aarch64-apple-darwin.tar.xz.sha256](https://github.com/YS-L/csvlens/releases/download/v0.15.1/csvlens-aarch64-apple-darwin.tar.xz.sha256) | 103 B | `native/darwin/arm64` |
+| [csvlens-aarch64-pc-windows-msvc.zip](https://github.com/YS-L/csvlens/releases/download/v0.15.1/csvlens-aarch64-pc-windows-msvc.zip) | 2.1 MiB | `native/win/arm64` |
+| [csvlens-aarch64-pc-windows-msvc.zip.sha256](https://github.com/YS-L/csvlens/releases/download/v0.15.1/csvlens-aarch64-pc-windows-msvc.zip.sha256) | 103 B | `native/win/arm64` |
+| [csvlens-aarch64-unknown-linux-gnu.tar.xz](https://github.com/YS-L/csvlens/releases/download/v0.15.1/csvlens-aarch64-unknown-linux-gnu.tar.xz) | 1.5 MiB | `native/linux/arm64/glibc` |
+| [csvlens-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/YS-L/csvlens/releases/download/v0.15.1/csvlens-aarch64-unknown-linux-gnu.tar.xz.sha256) | 108 B | `native/linux/arm64/glibc` |
+| [csvlens-x86_64-apple-darwin.tar.xz](https://github.com/YS-L/csvlens/releases/download/v0.15.1/csvlens-x86_64-apple-darwin.tar.xz) | 1.8 MiB | `native/darwin/x64` |
+| [csvlens-x86_64-apple-darwin.tar.xz.sha256](https://github.com/YS-L/csvlens/releases/download/v0.15.1/csvlens-x86_64-apple-darwin.tar.xz.sha256) | 102 B | `native/darwin/x64` |
+| [csvlens-x86_64-pc-windows-msvc.zip](https://github.com/YS-L/csvlens/releases/download/v0.15.1/csvlens-x86_64-pc-windows-msvc.zip) | 2.4 MiB | `native/win/x64` |
+| [csvlens-x86_64-pc-windows-msvc.zip.sha256](https://github.com/YS-L/csvlens/releases/download/v0.15.1/csvlens-x86_64-pc-windows-msvc.zip.sha256) | 102 B | `native/win/x64` |
+| [csvlens-x86_64-unknown-linux-gnu.tar.xz](https://github.com/YS-L/csvlens/releases/download/v0.15.1/csvlens-x86_64-unknown-linux-gnu.tar.xz) | 2.1 MiB | `native/linux/x64/glibc` |
+| [csvlens-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/YS-L/csvlens/releases/download/v0.15.1/csvlens-x86_64-unknown-linux-gnu.tar.xz.sha256) | 107 B | `native/linux/x64/glibc` |
+| [csvlens-x86_64-unknown-linux-musl.tar.xz](https://github.com/YS-L/csvlens/releases/download/v0.15.1/csvlens-x86_64-unknown-linux-musl.tar.xz) | 2.2 MiB | `native/linux/x64/musl` |
+| [csvlens-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/YS-L/csvlens/releases/download/v0.15.1/csvlens-x86_64-unknown-linux-musl.tar.xz.sha256) | 108 B | `native/linux/x64/musl` |
+| [dist-manifest.json](https://github.com/YS-L/csvlens/releases/download/v0.15.1/dist-manifest.json) | 25.8 KiB | `other` |
+| [sha256.sum](https://github.com/YS-L/csvlens/releases/download/v0.15.1/sha256.sum) | 807 B | `other` |
+| [source.tar.gz](https://github.com/YS-L/csvlens/releases/download/v0.15.1/source.tar.gz) | 12.5 MiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/YS-L/csvlens/releases/download/v0.15.1/source.tar.gz.sha256) | 81 B | `other` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/csvlens) 上共有 **23** 个发行版报告此项目。**15** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `0.15.1` | ✅ latest |
+| Homebrew | `0.15.1` | ✅ latest |
+| Nix unstable | `0.13.0` | ⚠️ outdated |
+
 ## 改进这些数据
 
 csvlens 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `csvlens` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -61,4 +96,4 @@ csvlens 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T06:05:28Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:28:18Z._
