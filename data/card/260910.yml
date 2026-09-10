@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.15.1"
   latestRelease: "v0.15.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T06:04:54Z
+  collectedAt: 2026-09-10T20:27:52Z
 timeline:
   created: 2021-08-14
   lastCommit: 2026-07-04
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-01-08
   lastPrerelease: 
 popularity:
-  star: 3959
+  star: 3960
   watcher: 11
   fork: 71
   release: 18
@@ -86,7 +86,7 @@ total:
   commit: 467
 ---
 path: /home/runner/.x-repo/github.com/YS-L/csvlens
-collectedAt: 2026-09-10T06:04:57Z
+collectedAt: 2026-09-10T20:27:59Z
 loc:
   Rust:
     code: 8394
