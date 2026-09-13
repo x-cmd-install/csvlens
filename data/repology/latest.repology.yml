@@ -1,13 +1,3 @@
-- repo: crux_37
-  subrepo: contrib
-  srcname: csvlens
-  visiblename: csvlens
-  version: 0.12.0
-  origversion: null
-  status: outdated
-  summary: Command line csv viewer
-  maintainers:
-    - tbier@posteo.de
 - repo: crux_38
   subrepo: contrib
   srcname: csvlens
@@ -18,6 +8,15 @@
   summary: Command line csv viewer
   maintainers:
     - tbier@posteo.de
+- repo: scoop
+  subrepo: main
+  binname: csvlens
+  visiblename: csvlens
+  version: 0.15.1
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
 - repo: altsisyphus
   srcname: csvlens
   binnames:
@@ -45,6 +44,16 @@
   summary: Command line csv viewer
   licenses:
     - MIT
+- repo: crux_37
+  subrepo: contrib
+  srcname: csvlens
+  visiblename: csvlens
+  version: 0.12.0
+  origversion: null
+  status: outdated
+  summary: Command line csv viewer
+  maintainers:
+    - tbier@posteo.de
 - repo: freebsd
   srcname: textproc/csvlens
   binname: csvlens
@@ -243,12 +252,3 @@
     - pkgsrc-users@netbsd.org
   categories:
     - textproc
-- repo: scoop
-  subrepo: main
-  binname: csvlens
-  visiblename: csvlens
-  version: 0.15.1
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
