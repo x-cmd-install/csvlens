@@ -47,12 +47,12 @@ Total: **8,634** lines of code across **32** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 0 | 0 | 0 | 1 | 0 | 0 |
-| last60d | 2026-07-28 | 0 | 0 | 2 | 1 | 0 | 0 |
-| 90d | 2026-06-28 | 0 | 0 | 2 | 1 | 2 | 1 |
-| last180d | 2026-03-30 | 0 | 0 | 3 | 1 | 2 | 1 |
-| 360d | 2025-10-01 | 3 | 16 | 6 | 16 | 13 | 61 |
-| last720d | 2024-10-06 | 6 | 36 | 7 | 31 | 27 | 133 |
+| 30d | 2026-08-28 | 0 | 0 | 0 | 1 | 0 | 0 |
+| last60d | 2026-07-29 | 0 | 0 | 2 | 1 | 0 | 0 |
+| 90d | 2026-06-29 | 0 | 0 | 2 | 1 | 2 | 0 |
+| last180d | 2026-03-31 | 0 | 0 | 3 | 1 | 2 | 1 |
+| 360d | 2025-10-02 | 3 | 16 | 6 | 16 | 13 | 61 |
+| last720d | 2024-10-07 | 6 | 36 | 7 | 31 | 27 | 133 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for csvlens lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:49:31Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:21:19Z._
