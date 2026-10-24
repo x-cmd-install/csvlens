@@ -71,16 +71,6 @@
   origversion: null
   status: rolling
   summary: Command-line csv viewer
-- repo: slackbuilds
-  srcname: office/csvlens
-  visiblename: office/csvlens
-  version: 0.15.1
-  origversion: null
-  status: newest
-  maintainers:
-    - boxjake.romero@protonmail.com
-  categories:
-    - office
 - repo: macports
   srcname: textproc/csvlens
   binname: csvlens
@@ -262,3 +252,13 @@
   status: newest
   licenses:
     - MIT
+- repo: slackbuilds
+  srcname: office/csvlens
+  visiblename: office/csvlens
+  version: 0.15.1
+  origversion: null
+  status: newest
+  maintainers:
+    - boxjake.romero@protonmail.com
+  categories:
+    - office
