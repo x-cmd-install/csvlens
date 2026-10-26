@@ -1,13 +1,3 @@
-- repo: crux_38
-  subrepo: contrib
-  srcname: csvlens
-  visiblename: csvlens
-  version: 0.15.1
-  origversion: null
-  status: newest
-  summary: Command line csv viewer
-  maintainers:
-    - tbier@posteo.de
 - repo: altsisyphus
   srcname: csvlens
   binnames:
@@ -42,6 +32,16 @@
   version: 0.12.0
   origversion: null
   status: outdated
+  summary: Command line csv viewer
+  maintainers:
+    - tbier@posteo.de
+- repo: crux_38
+  subrepo: contrib
+  srcname: csvlens
+  visiblename: csvlens
+  version: 0.15.1
+  origversion: null
+  status: newest
   summary: Command line csv viewer
   maintainers:
     - tbier@posteo.de
