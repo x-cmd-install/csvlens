@@ -85,28 +85,6 @@
     - MIT
   categories:
     - textproc
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: csvlens
-  binname: csvlens
-  visiblename: csvlens
-  version: 0.15.1
-  origversion: 0.15.1-2
-  status: newest
-  summary: Command line csv viewer
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: csvlens
-  binname: csvlens
-  visiblename: csvlens
-  version: 0.15.1
-  origversion: 0.15.1-2
-  status: newest
-  summary: Command line csv viewer
-  licenses:
-    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: csvlens
