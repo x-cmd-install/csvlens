@@ -37,22 +37,22 @@ Total: **8,634** lines of code across **32** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,033 · **Forks**: 75 · **Open issues**: 132 · **Contributors**: 22
+- **Stars**: 4,032 · **Forks**: 75 · **Open issues**: 132 · **Contributors**: 22
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 62 · **Open PRs**: 10 · **Closed issues**: 82 · **Open issues**: 50 · **Commits**: 467
+- **Releases**: 18 · **Merged PRs**: 62 · **Open PRs**: 11 · **Closed issues**: 82 · **Open issues**: 50 · **Commits**: 467
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 0 | 0 | 1 | 0 | 0 |
-| last60d | 2026-09-06 | 0 | 0 | 1 | 3 | 0 | 0 |
-| 90d | 2026-08-07 | 0 | 0 | 3 | 3 | 0 | 0 |
-| last180d | 2026-05-09 | 0 | 0 | 3 | 3 | 2 | 1 |
-| 360d | 2025-11-10 | 2 | 14 | 7 | 14 | 13 | 46 |
-| last720d | 2024-11-15 | 6 | 28 | 8 | 31 | 26 | 128 |
+| 30d | 2026-10-07 | 0 | 0 | 1 | 1 | 0 | 0 |
+| last60d | 2026-09-07 | 0 | 0 | 2 | 3 | 0 | 0 |
+| 90d | 2026-08-08 | 0 | 0 | 4 | 3 | 0 | 0 |
+| last180d | 2026-05-10 | 0 | 0 | 4 | 3 | 2 | 1 |
+| 360d | 2025-11-11 | 2 | 14 | 8 | 14 | 13 | 46 |
+| last720d | 2024-11-16 | 6 | 28 | 9 | 31 | 26 | 128 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for csvlens lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:55:06Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:50:21Z._
