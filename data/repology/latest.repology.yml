@@ -1,7 +1,7 @@
-- repo: nix_stable_25_05
+- repo: nix_stable_24_05
   srcname: csvlens
   visiblename: csvlens
-  version: 0.12.0
+  version: 0.9.1
   origversion: null
   status: outdated
   summary: Command line csv viewer
@@ -96,6 +96,28 @@
     - MIT
   categories:
     - textproc
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: csvlens
+  binname: csvlens
+  visiblename: csvlens
+  version: 0.15.1
+  origversion: 0.15.1-2
+  status: newest
+  summary: Command line csv viewer
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: csvlens
+  binname: csvlens
+  visiblename: csvlens
+  version: 0.15.1
+  origversion: 0.15.1-2
+  status: newest
+  summary: Command line csv viewer
+  licenses:
+    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: csvlens
@@ -107,10 +129,10 @@
   summary: Command line csv viewer
   licenses:
     - MIT
-- repo: nix_stable_24_05
+- repo: nix_stable_24_11
   srcname: csvlens
   visiblename: csvlens
-  version: 0.9.1
+  version: 0.10.1
   origversion: null
   status: outdated
   summary: Command line csv viewer
@@ -118,10 +140,10 @@
     - nixpkgs@natsukium.com
   licenses:
     - MIT
-- repo: nix_stable_24_11
+- repo: nix_stable_25_05
   srcname: csvlens
   visiblename: csvlens
-  version: 0.10.1
+  version: 0.12.0
   origversion: null
   status: outdated
   summary: Command line csv viewer
