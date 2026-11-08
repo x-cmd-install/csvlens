@@ -1,12 +1,24 @@
-- repo: nix_stable_24_05
-  srcname: csvlens
-  visiblename: csvlens
-  version: 0.9.1
+- repo: openbsd
+  srcname: textproc/csvlens
+  binname: csvlens
+  visiblename: textproc/csvlens
+  version: 0.15.1
   origversion: null
-  status: outdated
-  summary: Command line csv viewer
+  status: newest
+  summary: command line csv viewer
   maintainers:
-    - nixpkgs@natsukium.com
+    - openbsd-ports@schlecht.dev
+  categories:
+    - textproc
+- repo: parabola
+  subrepo: extra
+  srcname: csvlens
+  binname: csvlens
+  visiblename: csvlens
+  version: 0.15.1
+  origversion: 0.15.1-2
+  status: newest
+  summary: Command line csv viewer
   licenses:
     - MIT
 - repo: altsisyphus
@@ -129,6 +141,17 @@
   summary: Command line csv viewer
   licenses:
     - MIT
+- repo: nix_stable_24_05
+  srcname: csvlens
+  visiblename: csvlens
+  version: 0.9.1
+  origversion: null
+  status: outdated
+  summary: Command line csv viewer
+  maintainers:
+    - nixpkgs@natsukium.com
+  licenses:
+    - MIT
 - repo: nix_stable_24_11
   srcname: csvlens
   visiblename: csvlens
@@ -182,29 +205,6 @@
   summary: Command line csv viewer
   maintainers:
     - nixpkgs@natsukium.com
-  licenses:
-    - MIT
-- repo: openbsd
-  srcname: textproc/csvlens
-  binname: csvlens
-  visiblename: textproc/csvlens
-  version: 0.15.1
-  origversion: null
-  status: newest
-  summary: command line csv viewer
-  maintainers:
-    - openbsd-ports@schlecht.dev
-  categories:
-    - textproc
-- repo: parabola
-  subrepo: extra
-  srcname: csvlens
-  binname: csvlens
-  visiblename: csvlens
-  version: 0.15.1
-  origversion: 0.15.1-2
-  status: newest
-  summary: Command line csv viewer
   licenses:
     - MIT
 - repo: pkgsrc_2026_2
