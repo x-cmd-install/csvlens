@@ -1,3 +1,14 @@
+- repo: nix_stable_24_05
+  srcname: csvlens
+  visiblename: csvlens
+  version: 0.9.1
+  origversion: null
+  status: outdated
+  summary: Command line csv viewer
+  maintainers:
+    - nixpkgs@natsukium.com
+  licenses:
+    - MIT
 - repo: altsisyphus
   srcname: csvlens
   binnames:
@@ -123,17 +134,6 @@
   origversion: 0.15.1-2
   status: newest
   summary: Command line csv viewer
-  licenses:
-    - MIT
-- repo: nix_stable_24_05
-  srcname: csvlens
-  visiblename: csvlens
-  version: 0.9.1
-  origversion: null
-  status: outdated
-  summary: Command line csv viewer
-  maintainers:
-    - nixpkgs@natsukium.com
   licenses:
     - MIT
 - repo: nix_stable_24_11
