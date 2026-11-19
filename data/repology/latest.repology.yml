@@ -1,3 +1,25 @@
+- repo: nix_stable_24_11
+  srcname: csvlens
+  visiblename: csvlens
+  version: 0.10.1
+  origversion: null
+  status: outdated
+  summary: Command line csv viewer
+  maintainers:
+    - nixpkgs@natsukium.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: csvlens
+  visiblename: csvlens
+  version: 0.12.0
+  origversion: null
+  status: outdated
+  summary: Command line csv viewer
+  maintainers:
+    - nixpkgs@natsukium.com
+  licenses:
+    - MIT
 - repo: nix_stable_24_05
   srcname: csvlens
   visiblename: csvlens
@@ -134,28 +156,6 @@
   origversion: 0.15.1-2
   status: newest
   summary: Command line csv viewer
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: csvlens
-  visiblename: csvlens
-  version: 0.10.1
-  origversion: null
-  status: outdated
-  summary: Command line csv viewer
-  maintainers:
-    - nixpkgs@natsukium.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: csvlens
-  visiblename: csvlens
-  version: 0.12.0
-  origversion: null
-  status: outdated
-  summary: Command line csv viewer
-  maintainers:
-    - nixpkgs@natsukium.com
   licenses:
     - MIT
 - repo: nix_stable_25_11
