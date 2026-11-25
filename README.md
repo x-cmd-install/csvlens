@@ -37,7 +37,7 @@ Total: **8,634** lines of code across **32** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,046 · **Forks**: 75 · **Open issues**: 132 · **Contributors**: 22
+- **Stars**: 4,049 · **Forks**: 74 · **Open issues**: 132 · **Contributors**: 22
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **8,634** lines of code across **32** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 2 | 2 | 0 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 2 | 3 | 0 | 0 |
-| last180d | 2026-05-28 | 0 | 0 | 4 | 3 | 2 | 1 |
-| 360d | 2025-11-29 | 2 | 12 | 8 | 13 | 12 | 32 |
-| last720d | 2024-12-04 | 6 | 28 | 9 | 31 | 26 | 125 |
+| 30d | 2026-10-26 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 2 | 2 | 0 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 2 | 3 | 0 | 0 |
+| last180d | 2026-05-29 | 0 | 0 | 4 | 3 | 2 | 1 |
+| 360d | 2025-11-30 | 2 | 11 | 8 | 13 | 12 | 32 |
+| last720d | 2024-12-05 | 6 | 28 | 9 | 31 | 26 | 125 |
 
 ## Release assets
 
@@ -77,16 +77,6 @@ Total: **8,634** lines of code across **32** files in the top 5 languages.
 | [source.tar.gz](https://github.com/YS-L/csvlens/releases/download/v0.15.1/source.tar.gz) | 12.5 MiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/YS-L/csvlens/releases/download/v0.15.1/source.tar.gz.sha256) | 81 B | `other` |
 
-## Distribution status
-
-Reported by **25** distros on [repology.org](https://repology.org/project/csvlens). **17** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.15.1` | ✅ latest |
-| Homebrew | `0.15.1` | ✅ latest |
-| Nix unstable | `0.13.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for csvlens lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `csvlens` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -96,4 +86,4 @@ Install metadata for csvlens lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:41:03Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:24:59Z._
